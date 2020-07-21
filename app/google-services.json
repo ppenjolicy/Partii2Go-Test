@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "718284076877",
+    "firebase_url": "https://hope-partii2go.firebaseio.com",
+    "project_id": "hope-partii2go",
+    "storage_bucket": "hope-partii2go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718284076877:android:9f850a4c5e40f0a6336904",
+        "android_client_info": {
+          "package_name": "com.example.nectecspeech2.partii2goexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718284076877-m5a8tgsc2ss5l16mffgoel3bhghmrt60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nectecspeech2.partii2goexample",
+            "certificate_hash": "6c12fc44c76b5adb25e8cdcb2ed3aee14a5e9b6c"
+          }
+        },
+        {
+          "client_id": "718284076877-5cvv8u8amqca0k7d51ugsmjsqjd17le8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD5upX4mrhKMpYDSXMOWOn0Yb1IqZwAmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718284076877-5cvv8u8amqca0k7d51ugsmjsqjd17le8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
